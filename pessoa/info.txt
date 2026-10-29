@@ -1,5 +1,5 @@
 pessoa
-cabelo loiro
+cabelo preto
 pé
 corpo
 cabeça
